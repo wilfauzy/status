@@ -6,7 +6,7 @@ resolved: true
 informational: true
 pin: false
 resolvedWhen: 2021-10-23T14:25:14.976+00:00
-affected: []
+affected: [status.wildanfauzy.com]
 severity: notice
 
 ---
