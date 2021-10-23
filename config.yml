@@ -67,13 +67,13 @@ params:
   categories:
     - name: Jakarta
       description: The main servers are located here.
-      closed: true
+      closed: false
     - name: Yogyakarta
       description: The second servers are located here.
-      closed: true
+      closed: false
     - name: Bandung
       description: The third servers are located here.
-      closed: true
+      closed: false
     - name: New Jersey
       description: Medium.com's server here.
       closed: true
