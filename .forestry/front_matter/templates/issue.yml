@@ -1,0 +1,31 @@
+---
+label: issue
+hide_body: false
+fields:
+- type: text
+  name: section
+  label: section
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: resolved
+  label: resolved
+- type: boolean
+  name: informational
+  label: informational
+- type: boolean
+  name: pin
+  label: pin
+- type: datetime
+  name: resolvedWhen
+  label: resolvedWhen
+- type: list
+  name: affected
+  label: affected
+- type: text
+  name: severity
+  label: severity
