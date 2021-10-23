@@ -5,7 +5,7 @@ date: 2021-10-23T14:25:14.745Z
 resolved: true
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2021-10-23T14:25:14.976Z
 affected:
   - wildanfauzy.com
