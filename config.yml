@@ -65,15 +65,15 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Bandung, Indonesia
-      description: Backup Server located here
-      closed: true
     - name: New Jersey
       description: The main servers are located here.
       closed: false
     - name: California
       description: The Second servers are located here.
       closed: false
+    - name: Bandung, Indonesia
+      description: Backup Server located here.
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
