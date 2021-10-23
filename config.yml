@@ -48,6 +48,12 @@ params:
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
       category: Uncategorized
+    - name: Beranda
+      category: Jakarta, Indonesia
+      description: Halaman Beranda Website
+    - name: Perpus
+      category: Jakarta, Indonesia
+      description: Perpustakaan Online
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -68,8 +74,10 @@ params:
       description: The main servers are located here.
       closed: true
     - name: Empty Category
-    - name: Uncategorized
+    - name: Jakarta, Indonesia
       untitled: true
+      description: The main servers are located here.
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
