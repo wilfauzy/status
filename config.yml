@@ -1,7 +1,7 @@
 title: Status Page - WildanFauzy.com
 buildFuture: true
-defaultContentLanguage: id
-languageCode: id
+defaultContentLanguage: en
+languageCode: en
 baseURL: https://status.wildanfauzy.com/
 theme: cstate
 preserveTaxonomyNames: true
