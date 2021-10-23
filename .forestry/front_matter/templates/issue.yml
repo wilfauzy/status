@@ -29,3 +29,6 @@ fields:
 - type: text
   name: severity
   label: severity
+  showOnly:
+    field: informational
+    value: true
