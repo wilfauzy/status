@@ -48,6 +48,9 @@ params:
     - name: jurnal.wildanfauzy.com
       category: New Jersey
       description: Jurnal Online powered by medium.com
+    - name: status.wildanfauzy.com
+      category: Quebec
+      description: Status Pages hosted on Firebase
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -70,6 +73,9 @@ params:
     - name: California
       description: The Second servers are located here.
       closed: false
+    - name: Quebec
+      description: Firebase hosting located here.
+      closed: true
     - name: Bandung, Indonesia
       description: Backup Server located here.
       closed: true
