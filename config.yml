@@ -3,7 +3,6 @@ buildFuture: true
 defaultContentLanguage: en
 languageCode: en
 baseURL: https://status.wildanfauzy.com/
-themes: cstate
 preserveTaxonomyNames: true
 taxonomies:
   affected: affected
