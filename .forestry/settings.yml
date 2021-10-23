@@ -20,7 +20,7 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: config.toml
+  path: config.yml
   label: Configuration
 upload_dir: static/img
 public_path: "/img"
