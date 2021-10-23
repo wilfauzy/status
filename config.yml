@@ -37,22 +37,11 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
-      category: Uncategorized
     - name: Beranda
-      category: Jakarta, Indonesia
+      category: Jakarta
       description: Halaman Beranda Website
     - name: Perpus
-      category: Jakarta, Indonesia
+      category: Jakarta
       description: Perpustakaan Online
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
@@ -70,11 +59,7 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Jakarta, Indonesia
+    - name: Jakarta
       untitled: true
       description: The main servers are located here.
       closed: true
