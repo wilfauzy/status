@@ -52,7 +52,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: black
-  logo: logo.png
+  logo: img/logo.png
   incidentPostsPerPage: 2
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
@@ -61,7 +61,7 @@ params:
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly
-  disableIncidentHistory: false
+  disableIncidentHistory: true
   ok: "#008000"
   categories:
     - name: New Jersey
