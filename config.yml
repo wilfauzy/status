@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Status Page - WildanFauzy.com
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -64,7 +64,7 @@ buildFuture: true
 #
 # See:  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 # Also: https://www.w3schools.com/tags/ref_language_codes.asp
-languageCode: en
+languageCode: id
 
 # What translation file should cState use?
 # You can also define whether missing
@@ -78,7 +78,7 @@ languageCode: en
 # than English! When tested with Lithuanian,
 # it would add unnecesary placeholders to
 # values that were intentionally empty.
-defaultContentLanguage: en
+defaultContentLanguage: id
 
 # What is the hostname or path to the root?
 # Where is the site hosted?
@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.wildanfauzy.com
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -143,11 +143,11 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
+    - name: Indonesia
       description: The main servers are located here.
       closed: true
-    - name: Empty Category
-    - name: Uncategorized
+    - name: Website
+    - name: Beranda
       untitled: true
 
   # These are your systems. Change them to
@@ -158,16 +158,16 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: API
+    - name: Beranda
+      category: Jakarta, Indonesia
+    - name: Perpus
+      category: Jakarta, Indonesia
+    - name: Blog
       description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
+      category: Jakarta, Indonesia
+    - name: Jurnal
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+      category: Jakarta, Indonesia
 
   # What date format to use?
   #
