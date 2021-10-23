@@ -1,8 +1,8 @@
 title: Status Page - WildanFauzy.com
 buildFuture: true
-defaultContentLanguage: en
-languageCode: en
-baseURL: https://hasil.netlify.app
+defaultContentLanguage: id
+languageCode: id
+baseURL: https://status.wildanfauzy.com/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
@@ -45,7 +45,7 @@ params:
       description: Perpustakaan Online
     - name: Blog
       category: Bandung, Indonesia
-      description: Perpustakaan Online
+      description: Halaman blog yang berisikan tulisan
     - name: Jurnal
       category: New Jersey
       description: Jurnal Online powered by medium.com
@@ -71,7 +71,7 @@ params:
     - name: New Jersey
       description: Medium.com's server here.
       closed: true
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description:Kami terus memantau status layanan kami dan jika ada
+    setiap gangguan, catatan akan diposting di sini.
   enableCustomHTML: true
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
