@@ -5,6 +5,8 @@ fields:
 - type: text
   name: section
   label: section
+  default: issues
+  hidden: true
 - type: text
   name: title
   label: title
@@ -31,4 +33,4 @@ fields:
   label: severity
   showOnly:
     field: informational
-    value: true
+    value: false
