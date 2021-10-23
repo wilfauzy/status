@@ -66,8 +66,8 @@ params:
   ok: "#008000"
   categories:
     - name: Bandung, Indonesia
-      description: The main servers are located here.
-      closed: false
+      description: Backup Server located here
+      closed: true
     - name: New Jersey
       description: The main servers are located here.
       closed: false
