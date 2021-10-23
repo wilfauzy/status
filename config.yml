@@ -71,7 +71,7 @@ params:
     - name: New Jersey
       description: Medium.com's server here.
       closed: true
-  description: Kami terus memantau status layanan kami dan jika ada
-    setiap gangguan, catatan akan diposting di sini.
+  description: We continuously monitor the status of our services and if there are
+    any interruptions, a note will be posted here.
   enableCustomHTML: true
   useLargeHeaderDesign: true
