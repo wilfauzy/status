@@ -1,14 +1,13 @@
 ---
+section: issue
 title: Unavailable Guilds & Connection Issues
 date: 2018-04-13 15:54:00
 resolved: true
 resolvedWhen: 2018-04-13 17:30:00
-# Possible severity levels: down, disrupted, notice
-severity: down
 affected:
-  - API
-  - Media Proxy
-section: issue
+  - Beranda
+  - Perpus
+severity: down
 ---
 
 *Post-mortem*
