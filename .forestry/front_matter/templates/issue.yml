@@ -34,3 +34,5 @@ fields:
   showOnly:
     field: informational
     value: false
+pages:
+- content/issues/testing-new-server.md
