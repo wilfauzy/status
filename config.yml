@@ -38,13 +38,13 @@ params:
   down: "#e60000"
   systems:
     - name: Beranda
-      category: Jakarta
+      category: Bandung, Indonesia
       description: Halaman Beranda Website
     - name: Perpus
-      category: Bandung
+      category: Bandung, Indonesia
       description: Perpustakaan Online
     - name: Blog
-      category: Yogyakarta
+      category: Bandung, Indonesia
       description: Perpustakaan Online
     - name: Jurnal
       category: New Jersey
@@ -65,14 +65,8 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Jakarta
+    - name: Bandung, Indonesia
       description: The main servers are located here.
-      closed: false
-    - name: Yogyakarta
-      description: The second servers are located here.
-      closed: false
-    - name: Bandung
-      description: The third servers are located here.
       closed: false
     - name: New Jersey
       description: Medium.com's server here.
