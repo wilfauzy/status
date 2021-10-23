@@ -64,7 +64,7 @@ params:
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly
-  disableIncidentHistory: true
+  disableIncidentHistory: false
   ok: "#008000"
   categories:
     - name: New Jersey
@@ -75,7 +75,7 @@ params:
       closed: false
     - name: Quebec
       description: Firebase hosting located here.
-      closed: true
+      closed: false
     - name: Bandung, Indonesia
       description: Backup Server located here.
       closed: true
