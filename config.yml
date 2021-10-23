@@ -41,8 +41,14 @@ params:
       category: Jakarta
       description: Halaman Beranda Website
     - name: Perpus
-      category: Jakarta
+      category: Bandung
       description: Perpustakaan Online
+    - name: Blog
+      category: Yogyakarta
+      description: Perpustakaan Online
+    - name: Jurnal
+      category: New Jersey
+      description: Jurnal Online powered by medium.com
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -60,8 +66,16 @@ params:
   ok: "#008000"
   categories:
     - name: Jakarta
-      untitled: true
       description: The main servers are located here.
+      closed: true
+    - name: Yogyakarta
+      description: The second servers are located here.
+      closed: true
+    - name: Bandung
+      description: The third servers are located here.
+      closed: true
+    - name: New Jersey
+      description: Medium.com's server here.
       closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
