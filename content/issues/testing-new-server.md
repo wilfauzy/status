@@ -1,10 +1,10 @@
 +++
 affected = ["status.wildanfauzy.com"]
-date = 2021-10-23T04:05:00Z
+date = 2021-10-23T11:25:14.745+00:00
 informational = true
 pin = false
 resolved = true
-resolvedWhen = 2021-10-23T04:00:00Z
+resolvedWhen = 2021-10-23T11:30:14.745+00:00
 section = "issue"
 severity: notice
 title = "Testing New Server"
