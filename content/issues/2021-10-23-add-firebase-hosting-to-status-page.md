@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Add Firebase Hosting to Status Page
+title: Add Firebase to Status Page
 date: 2021-10-23T14:25:14.745+00:00
 resolved: true
 informational: true
