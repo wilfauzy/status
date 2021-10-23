@@ -1,6 +1,0 @@
-[submodule "themes/cstate"]
-	path = themes/cstate
-	url = https://github.com/wilfauzy/cstate
-[submodule "cstate"]
-	path = cstate
-	url = https://github.com/wilfauzy/cstate
