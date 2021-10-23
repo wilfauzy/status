@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "jurnal.wildanfauzy.com",
+  "permalink": "https://status.wildanfauzy.com/affected/jurnal.wildanfauzy.com/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Add Firebase Hosting to Status Page",
+        "createdAt": "2021-10-23 14:25:14.745 +0000 UTC",
+        "lastMod": "2021-10-23 14:30:08 +0000 UTC",
+        "permalink": "https://status.wildanfauzy.com/issues/2021-10-23-add-firebase-hosting-to-status-page/",
+        "severity": "notice",
+        "resolved": true,
+        "informational": true,
+        "resolvedAt": "2021-10-23T14:25:14.976Z",
+        "affected": ["wildanfauzy.com", "perpus.wildanfauzy.com", "jurnal.wildanfauzy.com", "blog.wildanfauzy.com"],
+        "filename": "2021-10-23-add-firebase-hosting-to-status-page.md"
+      }
+    
+  ]
+}
+
+
+
+
+
