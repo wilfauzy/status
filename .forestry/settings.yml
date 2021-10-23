@@ -19,6 +19,9 @@ sections:
   label: Issues
   create: all
   match: "**/*"
+- type: document
+  path: config.toml
+  label: Configuration
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
