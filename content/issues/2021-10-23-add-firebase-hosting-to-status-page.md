@@ -12,7 +12,7 @@ severity: notice
 ---
 ![](/img/wallpaperdog-1764.jpg)
 
-> ## We created some featured like status pages for monitoring all server served from domain wildanfauzy.com and all subdomain.
+## We created some featured like status pages for monitoring all server served from domain wildanfauzy.com and all subdomain.
 
 Statuspage is the communication piece of your incident management process
 
