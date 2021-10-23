@@ -37,16 +37,16 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Beranda
-      category: Bandung, Indonesia
-      description: Halaman Beranda Website
-    - name: Perpus
-      category: Bandung, Indonesia
-      description: Perpustakaan Online
-    - name: Blog
-      category: Bandung, Indonesia
-      description: Halaman blog yang berisikan tulisan
-    - name: Jurnal
+    - name: wildanfauzy.com
+      category: New Jersey
+      description: Website hosted by Netlify
+    - name: perpus.wildanfauzy.com
+      category: California
+      description: Perpustakaan Online hosted by Vercel Inc
+    - name: blog.wildanfauzy.com
+      category: New Jersey
+      description: blog site hosted by cloudflare page
+    - name: jurnal.wildanfauzy.com
       category: New Jersey
       description: Jurnal Online powered by medium.com
   dateFormat: January 2, 2006 at 3:04 PM UTC
@@ -69,8 +69,11 @@ params:
       description: The main servers are located here.
       closed: false
     - name: New Jersey
-      description: Medium.com's server here.
-      closed: true
+      description: The main servers are located here.
+      closed: false
+    - name: California
+      description: The Second servers are located here.
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
