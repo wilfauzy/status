@@ -37,20 +37,20 @@ params:
   down: "#e60000"
   systems:
     - name: wildanfauzy.com
-      category: New Jersey
-      description: Website hosted by Netlify
+      category: San Francisco, California
+      description: Website hosted by Github Pages
     - name: perpus.wildanfauzy.com
-      category: California
+      category: Walnut, California
       description: Perpustakaan Online hosted by Vercel Inc
     - name: blog.wildanfauzy.com
-      category: New Jersey
-      description: blog site hosted by cloudflare page
+      category: San Francisco, California
+      description: blog site hosted by Github Pages
     - name: jurnal.wildanfauzy.com
-      category: New Jersey
+      category: San Francisco, California
       description: Jurnal Online powered by medium.com
     - name: status.wildanfauzy.com
-      category: Quebec
-      description: Status Pages hosted on Firebase
+      category: San Francisco, California
+      description: Status Pages hosted on Github Pages
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -67,13 +67,13 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: New Jersey
+    - name: San Francisco, California
       description: The main servers are located here.
       closed: false
-    - name: California
+    - name: Walnut, California
       description: The Second servers are located here.
       closed: false
-    - name: Quebec
+    - name: New Jersey
       description: Firebase hosting located here.
       closed: false
     - name: Bandung, Indonesia
