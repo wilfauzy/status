@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://status.wildanfauzy.com"/><title>Issues on Status Page - WildanFauzy.com</title><link>https://status.wildanfauzy.com/issues/</link><description>Incident history</description><generator>github.com/cstate</generator><language>en</language><lastBuildDate>2021-10-23T14:25:14+00:00</lastBuildDate><updated>2021-10-23T14:25:14+00:00</updated><atom:link href="https://status.wildanfauzy.com/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>[Resolved] Add Firebase to Status Page</title><link>https://status.wildanfauzy.com/issues/2021-10-23-add-firebase-hosting-to-status-page/</link><pubDate>Sat, 23 Oct 2021 14:25:14 +0000</pubDate><guid>https://status.wildanfauzy.com/issues/2021-10-23-add-firebase-hosting-to-status-page/</guid><category>2021-10-23T14:25:14.976+00:00</category><description>We created some featured like status pages for monitoring all server served from domain wildanfauzy.com and all subdomain. Statuspage is the communication piece of your incident management process
+Keep users in the loop from ‘investigating’ through ‘resolved’.
+Statuspage integrates with your favorite monitoring, alerting, chat, and help desk tools for efficient response every time.
+Level-up your incident communication
+Take the hassle out of incident communication. Pre-written templates and tight integrations with the incident management tools you already rely on enable you to quickly get the word out to users.</description><content type="html">&lt;p>&lt;img src="https://status.wildanfauzy.com/img/wallpaperdog-1764.jpg" alt="">&lt;/p>
+&lt;h2 id="we-created-some-featured-like-status-pages-for-monitoring-all-server-served-from-domain-wildanfauzycom-and-all-subdomain">We created some featured like status pages for monitoring all server served from domain wildanfauzy.com and all subdomain.&lt;/h2>
+&lt;p>Statuspage is the communication piece of your incident management process&lt;/p>
+&lt;p>Keep users in the loop from ‘investigating’ through ‘resolved’.&lt;/p>
+&lt;p>Statuspage integrates with your favorite monitoring, alerting, chat, and help desk tools for efficient response every time.&lt;/p>
+&lt;p>Level-up your incident communication&lt;/p>
+&lt;p>Take the hassle out of incident communication. Pre-written templates and tight integrations with the incident management tools you already rely on enable you to quickly get the word out to users.&lt;/p>
+&lt;p>Eliminate duplicate support tickets &amp;amp; clunky email lists&lt;/p>
+&lt;p>Halt the flood of support requests during an incident with proactive customer communication. Manage subscribers directly in Statuspage and send consistent messages through the channels of your choice (email, text message, in-app message, etc.)&lt;/p>
+&lt;p>Display the status of each part of your service&lt;/p>
+&lt;p>Control which components of your service you show on your page, and tap into 150+ third party components to display the status of mission-critical tools your service relies on like Stripe, Mailgun, Shopify, and PagerDuty.&lt;/p>
+&lt;h3 id="thanks-for-your-attention-have-a-good-day-">Thanks for your attention, have a good day :)&lt;/h3>
+&lt;p>&lt;em>Investigating&lt;/em> - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.&lt;/p></content></item></channel></rss>
