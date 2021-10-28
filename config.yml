@@ -73,12 +73,6 @@ params:
     - name: Walnut, California
       description: The Second servers are located here.
       closed: false
-    - name: New Jersey
-      description: Firebase hosting located here.
-      closed: false
-    - name: Bandung, Indonesia
-      description: Backup Server located here.
-      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
