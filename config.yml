@@ -38,19 +38,19 @@ params:
   systems:
     - name: wildanfauzy.com
       category: San Francisco, California
-      description: Website hosted by Github Pages
+      description: Website hosted by Cloudflare
     - name: perpus.wildanfauzy.com
       category: Walnut, California
       description: Perpustakaan Online hosted by Vercel Inc
     - name: blog.wildanfauzy.com
       category: San Francisco, California
-      description: blog site hosted by Github Pages
+      description: blog site hosted by Cloudflare
     - name: jurnal.wildanfauzy.com
       category: San Francisco, California
       description: Jurnal Online powered by medium.com
     - name: status.wildanfauzy.com
       category: San Francisco, California
-      description: Status Pages hosted on Github Pages
+      description: Status Pages hosted on Cloudflare
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -71,7 +71,7 @@ params:
       description: The main servers are located here.
       closed: false
     - name: Walnut, California
-      description: The Second servers are located here.
+      description: The storage servers are located here.
       closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
