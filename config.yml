@@ -38,7 +38,7 @@ params:
   systems:
     - name: wildanfauzy.com
       category: San Francisco, California
-      description: Website hosted by Cloudflare
+      description: Website hosted by Netlify
     - name: perpus.wildanfauzy.com
       category: Walnut, California
       description: Perpustakaan Online hosted by Vercel Inc
