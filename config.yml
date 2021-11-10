@@ -38,19 +38,22 @@ params:
   systems:
     - name: wildanfauzy.com
       category: San Francisco, California
-      description: Website hosted by Netlify
+      description: Website hosted by Github
     - name: perpus.wildanfauzy.com
       category: Walnut, California
       description: Perpustakaan Online hosted by Vercel Inc
+    - name: notes.wildanfauzy.com
+      category: Walnut, California
+      description: Catatan Online hosted by Vercel Inc
     - name: blog.wildanfauzy.com
       category: San Francisco, California
-      description: blog site hosted by Cloudflare
+      description: blog site hosted by Github
     - name: jurnal.wildanfauzy.com
       category: San Francisco, California
       description: Jurnal Online powered by medium.com
     - name: status.wildanfauzy.com
       category: San Francisco, California
-      description: Status Pages hosted on Cloudflare
+      description: Status Pages hosted on Github
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
