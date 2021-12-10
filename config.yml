@@ -51,6 +51,9 @@ params:
     - name: jurnal.wildanfauzy.com
       category: San Francisco, California
       description: Jurnal Online powered by medium.com
+    - name: ngopibrek.wildanfauzy.com
+      category: San Francisco, California
+      description: NgopiBrek! powered by medium.com
     - name: status.wildanfauzy.com
       category: Walnut, California
       description: Status Pages hosted on Vercel
