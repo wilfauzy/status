@@ -37,8 +37,8 @@ params:
   down: "#e60000"
   systems:
     - name: wildanfauzy.com
-      category: San Francisco, California
-      description: Website hosted by Github
+      category: Walnut, California
+      description: Website hosted by Vercel
     - name: perpus.wildanfauzy.com
       category: Walnut, California
       description: Perpustakaan Online hosted by Vercel Inc
@@ -46,14 +46,14 @@ params:
       category: Walnut, California
       description: Catatan Online hosted by Vercel Inc
     - name: blog.wildanfauzy.com
-      category: San Francisco, California
-      description: blog site hosted by Github
+      category: Walnut, California
+      description: blog site hosted by Vercel
     - name: jurnal.wildanfauzy.com
       category: San Francisco, California
       description: Jurnal Online powered by medium.com
     - name: status.wildanfauzy.com
-      category: San Francisco, California
-      description: Status Pages hosted on Github
+      category: Walnut, California
+      description: Status Pages hosted on Vercel
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
