@@ -45,7 +45,7 @@ params:
     - name: notes.wildanfauzy.com
       category: Walnut, California
       description: Catatan Online hosted by Vercel Inc
-    - name: blog.wildanfauzy.com
+    - name: wilfauzy.com
       category: Walnut, California
       description: blog site hosted by Vercel
     - name: jurnal.wildanfauzy.com
